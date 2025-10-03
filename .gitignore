@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual Environment folder
+venv/
+
+# Environment variables file (contains secrets)
+.env
+
+# Generated output files
+outputs/
